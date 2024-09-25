@@ -13,7 +13,8 @@
  * @retval  pulse shaping matrix
  *
  ======================================================================= */
-std::vector<std::vector<double>> pulse_shaping(std::unique_ptr<std::unique_ptr<double[]>[]>& symbs, modulation_setup_t& modul_stp, pulse_shaping_t& puls_sh)
+//std::vector<std::vector<double>> pulse_shaping(std::unique_ptr<std::unique_ptr<double[]>[]>& symbs, modulation_setup_t& modul_stp, pulse_shaping_t& puls_sh)
+std::vector<std::vector<double>> pulse_shaping(std::vector<std::vector<double>>& symbs, modulation_setup_t& modul_stp, pulse_shaping_t& puls_sh)
 {
     uint32_t i, j, index;
 

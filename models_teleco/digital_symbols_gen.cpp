@@ -5,7 +5,8 @@
 #include "setup.hpp"
 
 
-void digital_symbols_gen(modulation_setup_t& mod_stp, std::unique_ptr<std::unique_ptr<double[]>[]>& symbs, std::uint32_t& n, std::uint32_t& m)
+//void digital_symbols_gen(modulation_setup_t& mod_stp, std::unique_ptr<std::unique_ptr<double[]>[]>& symbs, std::uint32_t& n, std::uint32_t& m)
+void digital_symbols_gen(modulation_setup_t& mod_stp, std::vector<std::vector<double>>& symbs, std::uint32_t& n, std::uint32_t& m)
 {
     uint32_t i, k;
     uint32_t j;
@@ -15,8 +16,9 @@ void digital_symbols_gen(modulation_setup_t& mod_stp, std::unique_ptr<std::uniqu
     std::mt19937 gen(rd()); // Seed the generator
     std::normal_distribution<> d(0.0, 1.0); // Normal distribution with specified mean and stddev
 
-    std::unique_ptr<double[]> data_sgn;    // unique pointer for dinamic array
-    data_sgn = std::make_unique<double[]>(mod_stp.n_bits);  // create an array of n_samples values
+    //std::unique_ptr<double[]> data_sgn;    // unique pointer for dinamic array
+    //data_sgn = std::make_unique<double[]>(mod_stp.n_bits);  // create an array of n_samples values
+    std::vector<double> data_sgn(mod_stp.n_bits);  // create an array of n_samples values
 
     for (i = 0; i < mod_stp.n_bits; ++i) {
         data_sgn[i] = (d(gen) >= 0) ? 1 : -1; // Apply the sign function
@@ -25,9 +27,13 @@ void digital_symbols_gen(modulation_setup_t& mod_stp, std::unique_ptr<std::uniqu
     n = 4;
     m = static_cast<uint32_t>(mod_stp.n_symbols);
 
-    symbs = std::make_unique<std::unique_ptr<double[]>[]>(4);
+    /*symbs = std::make_unique<std::unique_ptr<double[]>[]>(4);
     for (int i = 0; i < 4; ++i) {
         symbs[i] = std::make_unique<double[]>(mod_stp.n_symbols);
+    }*/
+    symbs.resize(4);
+    for (uint32_t i = 0; i < 4; i++) {
+        symbs[i].resize(mod_stp.n_symbols);
     }
 
     switch (mod_stp.modulation)

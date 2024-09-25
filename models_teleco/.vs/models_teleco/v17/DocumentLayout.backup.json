@@ -1,33 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Celero\\teleco_models\\models_teleco\\",
+  "WorkspaceRootPath": "D:\\Lemurias\\Models\\models_teleco\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|E:\\Celero\\teleco_models\\models_teleco\\balanced_detector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:balanced_detector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\pulse_shaping.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:pulse_shaping.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|E:\\Celero\\teleco_models\\models_teleco\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\pulse_shaping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:pulse_shaping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|E:\\Celero\\teleco_models\\models_teleco\\misc.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:misc.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\digital_symbols_gen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:digital_symbols_gen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|E:\\Celero\\teleco_models\\models_teleco\\coh_opt_rcvr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\coh_opt_rcvr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:coh_opt_rcvr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|E:\\Celero\\teleco_models\\models_teleco\\optical_hybrid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\balanced_detector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:balanced_detector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\digital_symbols_gen.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:digital_symbols_gen.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\misc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:misc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\misc.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:misc.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\optical_hybrid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:optical_hybrid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|E:\\Celero\\teleco_models\\models_teleco\\setup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\setup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:setup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|E:\\Celero\\teleco_models\\models_teleco\\setup.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|D:\\Lemurias\\Models\\models_teleco\\setup.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3CE76853-0465-49D8-BAAB-744F1E72A291}|models_teleco.vcxproj|solutionrelative:setup.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -43,35 +63,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "pulse_shaping.hpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\pulse_shaping.hpp",
+              "RelativeDocumentMoniker": "pulse_shaping.hpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\pulse_shaping.hpp",
+              "RelativeToolTip": "pulse_shaping.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-25T20:14:31.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pulse_shaping.cpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\pulse_shaping.cpp",
+              "RelativeDocumentMoniker": "pulse_shaping.cpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\pulse_shaping.cpp",
+              "RelativeToolTip": "pulse_shaping.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T20:13:42.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "digital_symbols_gen.hpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\digital_symbols_gen.hpp",
+              "RelativeDocumentMoniker": "digital_symbols_gen.hpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\digital_symbols_gen.hpp",
+              "RelativeToolTip": "digital_symbols_gen.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-25T20:07:38.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "misc.cpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\misc.cpp",
+              "RelativeDocumentMoniker": "misc.cpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\misc.cpp",
+              "RelativeToolTip": "misc.cpp",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAANcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T20:06:07.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "digital_symbols_gen.cpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\digital_symbols_gen.cpp",
+              "RelativeDocumentMoniker": "digital_symbols_gen.cpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\digital_symbols_gen.cpp",
+              "RelativeToolTip": "digital_symbols_gen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T20:01:54.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "balanced_detector.cpp",
-              "DocumentMoniker": "E:\\Celero\\teleco_models\\models_teleco\\balanced_detector.cpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\balanced_detector.cpp",
               "RelativeDocumentMoniker": "balanced_detector.cpp",
-              "ToolTip": "E:\\Celero\\teleco_models\\models_teleco\\balanced_detector.cpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\balanced_detector.cpp",
               "RelativeToolTip": "balanced_detector.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-24T19:17:28.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "coh_opt_rcvr.cpp",
-              "DocumentMoniker": "E:\\Celero\\teleco_models\\models_teleco\\coh_opt_rcvr.cpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\coh_opt_rcvr.cpp",
               "RelativeDocumentMoniker": "coh_opt_rcvr.cpp",
-              "ToolTip": "E:\\Celero\\teleco_models\\models_teleco\\coh_opt_rcvr.cpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\coh_opt_rcvr.cpp",
               "RelativeToolTip": "coh_opt_rcvr.cpp",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAmwJAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwHwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-23T18:00:44.661Z"
+              "WhenOpened": "2024-09-23T18:00:44.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "optical_hybrid.cpp",
-              "DocumentMoniker": "E:\\Celero\\teleco_models\\models_teleco\\optical_hybrid.cpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\optical_hybrid.cpp",
               "RelativeDocumentMoniker": "optical_hybrid.cpp",
-              "ToolTip": "E:\\Celero\\teleco_models\\models_teleco\\optical_hybrid.cpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\optical_hybrid.cpp",
               "RelativeToolTip": "optical_hybrid.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -79,11 +165,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "setup.cpp",
-              "DocumentMoniker": "E:\\Celero\\teleco_models\\models_teleco\\setup.cpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\setup.cpp",
               "RelativeDocumentMoniker": "setup.cpp",
-              "ToolTip": "E:\\Celero\\teleco_models\\models_teleco\\setup.cpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\setup.cpp",
               "RelativeToolTip": "setup.cpp",
               "ViewState": "AgIAAI0AAAAAAAAAAAAIwKwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -91,23 +177,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "misc.hpp",
-              "DocumentMoniker": "E:\\Celero\\teleco_models\\models_teleco\\misc.hpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\misc.hpp",
               "RelativeDocumentMoniker": "misc.hpp",
-              "ToolTip": "E:\\Celero\\teleco_models\\models_teleco\\misc.hpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\misc.hpp",
               "RelativeToolTip": "misc.hpp",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-18T16:18:46.301Z"
+              "WhenOpened": "2024-09-18T16:18:46.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "setup.hpp",
-              "DocumentMoniker": "E:\\Celero\\teleco_models\\models_teleco\\setup.hpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\setup.hpp",
               "RelativeDocumentMoniker": "setup.hpp",
-              "ToolTip": "E:\\Celero\\teleco_models\\models_teleco\\setup.hpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\setup.hpp",
               "RelativeToolTip": "setup.hpp",
               "ViewState": "AgIAAGYAAAAAAAAAAAAcwHgAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -115,13 +202,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "E:\\Celero\\teleco_models\\models_teleco\\main.cpp",
+              "DocumentMoniker": "D:\\Lemurias\\Models\\models_teleco\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "E:\\Celero\\teleco_models\\models_teleco\\main.cpp",
+              "ToolTip": "D:\\Lemurias\\Models\\models_teleco\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAC4BAAAAAAAAAAAewEMBAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAADgv3cAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-18T16:14:38.741Z",
               "EditorCaption": ""

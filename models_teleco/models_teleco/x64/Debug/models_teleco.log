@@ -1,2 +1,14 @@
-﻿  balanced_detector.cpp
-  models_teleco.vcxproj -> E:\Celero\teleco_models\models_teleco\x64\Debug\models_teleco.exe
+﻿  main.cpp
+D:\Lemurias\Models\models_teleco\main.cpp(50,48): warning C4244: 'argumento': conversión de 'double' a 'uint32_t'; posible pérdida de datos
+D:\Lemurias\Models\models_teleco\main.cpp(50,36): warning C4244: 'argumento': conversión de 'double' a 'uint32_t'; posible pérdida de datos
+D:\Lemurias\Models\models_teleco\main.cpp(131,53): warning C4244: 'argumento': conversión de 'double' a 'const unsigned __int64'; posible pérdida de datos
+D:\Lemurias\Models\models_teleco\main.cpp(135,53): warning C4244: 'argumento': conversión de 'double' a 'const unsigned __int64'; posible pérdida de datos
+D:\Lemurias\Models\models_teleco\main.cpp(139,49): warning C4244: 'argumento': conversión de 'double' a 'const unsigned __int64'; posible pérdida de datos
+D:\Lemurias\Models\models_teleco\main.cpp(193,64): warning C4244: 'argumento': conversión de 'double' a 'const unsigned __int64'; posible pérdida de datos
+D:\Lemurias\Models\models_teleco\main.cpp(215,57): warning C4244: 'argumento': conversión de 'double' a 'const unsigned __int64'; posible pérdida de datos
+D:\Lemurias\Models\models_teleco\main.cpp(225,58): warning C4244: 'argumento': conversión de 'double' a 'const unsigned __int64'; posible pérdida de datos
+D:\Lemurias\Models\models_teleco\main.cpp(303,21): warning C4267: 'inicializando': conversión de 'size_t' a 'uint32_t'; posible pérdida de datos
+  pulse_shaping.cpp
+D:\Lemurias\Models\models_teleco\pulse_shaping.cpp(19,17): warning C4101: 'j': variable local sin referencia
+  Generando código...
+  models_teleco.vcxproj -> D:\Lemurias\Models\models_teleco\x64\Debug\models_teleco.exe

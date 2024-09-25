@@ -37,7 +37,8 @@ channel_params_t    channel_params;
 
 // Funci�n para crear una matriz de NxM
 std::unique_ptr<std::unique_ptr<Complex[]>[]> createMatrix(int N, int M);
-std::unique_ptr<std::unique_ptr<double[]>[]> symbols;
+//std::unique_ptr<std::unique_ptr<double[]>[]> symbols;
+std::vector<std::vector<double>> symbols;
 std::vector<std::vector<Complex>> ef_laser;
 std::vector<std::vector<std::complex<double>>> Eout_Tx;
 
@@ -101,7 +102,7 @@ int main()
     }
 
     /******************************************************************/
-    saveMatrixInFile(symbols, symbols_rows, symbols_cols, text);
+    saveMatrixInFile(symbols, text);
     /******************************************************************/
 
     /****************************************************************
