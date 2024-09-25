@@ -1,0 +1,16 @@
+Parameters transmitter:
+Laser Rcv Power: 8dBm
+Laser Rcv Lambda: 1550nm
+Laser Rcv LW: 15000Hz
+Laser Rcv FO: 0Hz
+Laser Rcv RIN: -145dBHz
+Laser Rcv BW: 1.8e+11Hz
+Laser Rcv ID: 1e-08A
+Laser Rcv Resp: 1A/W
+Laser Rcv RL: 50ohms
+Laser Rcv T: 290ºK
+Laser Rcv coup excess loss: 0dB
+Laser Rcv DC Block ON: 1
+Laser Filter ON: 1
+
+
